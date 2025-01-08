@@ -1,0 +1,51 @@
+/* body {background-color: rgb(11, 6, 85);}
+body {color: white;} */
+
+/* FOOTER */
+/*
+a {
+  color: white;
+}
+
+a:visited {
+  color: grey;
+}
+
+a:hover {
+  color: blue;
+}
+
+a:active {
+  color: white;
+}
+
+
+
+
+#menu (also class .menu) {
+  width: 300px; # also 80%
+  background-color: burlywood;
+  #center
+  margin-left: auto;
+  margin-right: auto;
+} 
+
+/* colors, colors
+burlywood */
+
+/* text-align: center; */
+
+/*<style>
+  h1 {
+    color: red;
+  }
+</style>*/
+
+/*
+ .header1 {
+    font-size: 18px;
+  }
+  .header2 {
+    font-size: 8px;
+  }
+*/
